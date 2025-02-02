@@ -1,4 +1,4 @@
-# TOPSIS Method for Selecting the Best Pretrained Model for Dialogue Generation
+# TOPSIS Method for Selecting the Best Pre-trained Model for Text Generation
 
 ## Overview
 This project implements the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method to evaluate and rank pretrained models for dialogue generation based on multiple performance criteria.
